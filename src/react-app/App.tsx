@@ -1,8 +1,6 @@
 // src/App.tsx
   return (
-    <>
     <h1>Proplan</h1>
-    </>
   );
 }
 
