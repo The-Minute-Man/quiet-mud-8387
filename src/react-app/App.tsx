@@ -1,4 +1,4 @@
-// src/App.tsx
+function App() {
   return (
     <h1>Proplan</h1>
   );
